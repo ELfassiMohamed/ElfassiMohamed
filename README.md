@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **Internship**
 
-- 🌱 I’m currently learning **SpringBoot and MongoDB**
+- 🌱 I’m currently learning **SpringBoot and Oracle DB**
 
 
 <p align="center">
