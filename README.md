@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Software Engineering student passionate about building impactful solutions through code.<br>I love exploring new technologies, improving my skills, and working on projects that make a real difference.<br><br>💻 Currently working on:<br>A Healthcare Platform built with Spring Boot, following a Microservices architecture, and integrating RabbitMQ and MongoDB for scalability and performance.<br><br>☁️ Learning:<br>Cloud Computing — currently preparing for the Oracle Cloud Infrastructure Associate (IZ0-1072) certification.<br><br>🚀 Interests:<br>Backend development • Distributed systems • Cloud architectures • DevOps
+I'm a Software Engineering student passionate about building impactful solutions through code.<br>I love exploring new technologies, improving my skills, and working on projects that make a real difference.<br><br>💻 Currently working on:<br>A Healthcare Platform built with Spring Boot, following a Microservices architecture, and integrating RabbitMQ and MongoDB for scalability and performance.<br><br>🏅 Certifications:<br>
+• Software Design and Architecture – University of Alberta<br>
+• Certified in Cybersecurity (CC) – (ISC)²<br>
+• Oracle Cloud Infrastructure Architect Associate (OCI)<br>
+• Java SE 17 Developer – In Progress<br><br>🚀 Interests:<br>Backend development • Distributed systems • Cloud architectures • DevOps
 
 
 ## 🌐 Socials:
