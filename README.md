@@ -8,7 +8,7 @@ Over the last few years I've worked on projects ranging from AI interview simula
 • Software Design and Architecture – University of Alberta<br>
 • Certified in Cybersecurity (CC) – (ISC)²<br>
 • Oracle Cloud Infrastructure Architect Associate (OCI)<br>
-• Java SE 17 Developer – In Progress<br><br>🚀 Interests:<br>Backend development • Distributed systems • Cloud architectures • DevOps
+• Java SE 17 Developer – In Progress<br><br> Interests:<br>Backend development • Distributed systems • Cloud architectures • DevOps
 
 
 ##  Socials:
