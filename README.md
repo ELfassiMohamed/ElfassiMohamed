@@ -1,5 +1,10 @@
 #  About Me:
-I'm a Software Engineering student passionate about building impactful solutions through code.<br>I love exploring new technologies, improving my skills, and working on projects that make a real difference.<br><br> Certifications:<br>
+Software Engineering student focused on building scalable systems, developer tools, and AI-powered applications.
+
+I enjoy designing software beyond the code itself: architecture, databases, infrastructure, cloud deployment, security, and distributed systems.
+
+Over the last few years I've worked on projects ranging from AI interview simulators and document-processing platforms to PropTech and investment systems. My goal is simple: build products that solve real problems and learn the engineering principles that make them reliable at scale.<br>
+<br> Certifications:<br>
 • Software Design and Architecture – University of Alberta<br>
 • Certified in Cybersecurity (CC) – (ISC)²<br>
 • Oracle Cloud Infrastructure Architect Associate (OCI)<br>
