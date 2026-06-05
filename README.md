@@ -5,7 +5,6 @@ I enjoy designing software beyond the code itself: architecture, databases, infr
 
 Over the last few years I've worked on projects ranging from AI interview simulators and document-processing platforms to PropTech and investment systems. My goal is simple: build products that solve real problems and learn the engineering principles that make them reliable at scale.<br>
 <br> Certifications:<br>
-• Software Design and Architecture – University of Alberta<br>
 • Certified in Cybersecurity (CC) – (ISC)²<br>
 • Oracle Cloud Infrastructure Architect Associate (OCI)<br>
 • Java SE 17 Developer – In Progress<br><br> Interests:<br>Backend development • Distributed systems • Cloud architectures • DevOps
