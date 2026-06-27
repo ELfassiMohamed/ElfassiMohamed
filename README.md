@@ -1,5 +1,5 @@
 #  About Me:
-Software Engineering student focused on building scalable systems, developer tools, and AI-powered applications.
+Software Engineering focused on building scalable systems, developer tools, and AI-powered applications.
 
 I enjoy designing software beyond the code itself: architecture, databases, infrastructure, cloud deployment, security, and distributed systems.
 
